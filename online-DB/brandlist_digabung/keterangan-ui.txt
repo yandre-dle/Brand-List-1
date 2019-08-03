@@ -1,0 +1,17 @@
+brandlist_digabung
+
+http://localhost:3000/getlistbrand
+
+
+==========>
+fitur
+-add
+-delete
+-edit
+-cancel
+-save
+
+database
+ //host online localhost phpmyadmin remotemysql.com
+
+==========>

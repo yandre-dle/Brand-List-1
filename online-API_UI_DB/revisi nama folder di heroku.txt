@@ -1,0 +1,5 @@
+di heroku
+foldernya 
+api-brandlist111-gabung = api-brandlist111-dipisah
+
+ui-brandlist111-gabung = ui-brandlist111-dipisah

@@ -1,0 +1,15 @@
+brandlist_tidak digabung
+https://ui-brandlist111-gabung.herokuapp.com/brand/getlistbrand
+
+==========>
+fitur
+-add
+-delete
+-edit
+-cancel
+-save
+
+database
+//host online localhost phpmyadmin remotemysql.com
+
+api + ui di hosting di heroku

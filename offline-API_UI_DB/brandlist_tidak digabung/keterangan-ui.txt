@@ -1,0 +1,17 @@
+http://localhost:3000/brand/getlistbrand
+
+brandlist_tidak digabung
+
+==========>
+fitur
+-add
+-delete
+-edit
+-cancel
+-save
+
+database
+-//host local localhost phpmyadmin
+-//host local mysql_workbench
+-//database name "popokpedia"
+

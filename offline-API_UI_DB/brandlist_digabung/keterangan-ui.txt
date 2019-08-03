@@ -1,0 +1,18 @@
+brandlist_digabung
+
+http://localhost:3000/getlistbrand
+
+==========>
+fitur
+-add
+-delete
+-edit
+-cancel
+-save
+
+database
+-//host local localhost phpmyadmin
+-//host local mysql_workbench
+-//database name "popokpedia"
+
+==========>
